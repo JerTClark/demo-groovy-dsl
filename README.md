@@ -1,0 +1,2 @@
+## demo-groovy-dsl
+A simple example of creating domain specific languages using Groovy based on the example from the book, [Programming Groovy 2](https://pragprog.com/book/vslg2/programming-groovy-2) by Venkat Subramaniam.
